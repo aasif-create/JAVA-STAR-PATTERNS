@@ -1,5 +1,4 @@
 
-
 public class BASIC_PATTERNS
 {
     public static void main(String[] args)
@@ -50,7 +49,6 @@ public class BASIC_PATTERNS
             System.out.println();
 
         }
-         System.out.println("<--------------------------------------------------------------->");
 
     }
 }
