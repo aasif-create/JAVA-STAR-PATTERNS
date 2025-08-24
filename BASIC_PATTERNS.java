@@ -85,5 +85,19 @@ public class BASIC_PATTERNS
             
         }
         System.out.println("<--------------------------------------------------------------->");
+
+        System.out.println("7.INVERTED HALF PYRAMID [ WITH NUMBERS ]");
+           
+        int n3 = 6;
+        for(int i=n3 ; i>=1 ;i--)
+        {
+            for(int j=1 ; j<i ;j++)
+            {
+                System.out.print(j);
+            }
+            System.out.println();
+        }
+        System.out.println("<--------------------------------------------------------------->");
+    
 }
 }
