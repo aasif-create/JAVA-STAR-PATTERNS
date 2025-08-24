@@ -47,8 +47,10 @@ public class BASIC_PATTERNS
             }
 
             System.out.println();
+        
 
         }
+        System.out.println("<--------------------------------------------------------------->");
 
         System.out.println("5.INVERTED HALF PYRAMID [ROTATED BY 180 DEGREE] (*)");
         int n1 =5;
