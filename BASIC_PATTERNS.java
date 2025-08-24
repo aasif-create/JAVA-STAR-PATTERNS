@@ -3,6 +3,8 @@ public class BASIC_PATTERNS
 {
     public static void main(String[] args)
     {
+        System.out.println("<--------------------------------------------------------------->");
+
         System.out.println("1. SOLID RECTANGLE(*)");
         for(int i=1;i<5;i++){
             for(int j =0;j<5;j++) {
