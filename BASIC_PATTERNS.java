@@ -1,5 +1,3 @@
-
-
 public class BASIC_PATTERNS {
     public static void main(String[] args) {
         System.out.println("1. SOLID RECTANGLE(*)");
