@@ -70,5 +70,20 @@ public class BASIC_PATTERNS
         }
         System.out.println("<--------------------------------------------------------------->");
 
-    }
+    
+
+        System.out.println("6.HALF PYRAMID [WITH NUMBERS ]");
+        int n2=6;
+        for(int i=1 ;i<=n2; i++)
+        {
+            for(int j=1;j<i;j++)
+            {
+                System.out.print(j);
+
+            }
+            System.out.println();
+            
+        }
+        System.out.println("<--------------------------------------------------------------->");
+}
 }
