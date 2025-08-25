@@ -119,6 +119,7 @@ public class BASIC_PATTERNS {
             }
             System.out.println();
         }
+        System.out.println("<--------------------------------------------------------------->");
     }
 }
 
